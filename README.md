@@ -7,8 +7,8 @@ I am a curious and experimental problem-solver. Instead of writing heavy backend
 ### 🔭 What you'll find in this portfolio:
 Here I share my learning projects where I explore technologies to solve practical problems:
 
-* ⚙️ **Accounting Onboarding Flow:** An automated client onboarding solution for an accounting firm. Built manually using Power Apps (Model-driven), Dataverse, and Power Automate. This project demonstrates my ability to map business requirements into enterprise apps, my understanding of Application Lifecycle Management (Solution packaging), and my skill in using AI purely as a sparring partner for architecture and process design.
-* 🌱 **Plant Catalog (Web App):** A project converting static PDF data into a dynamic web service. I acted as the project manager, guiding AI tools (Lovable, Claude) to generate the codebase. The focus was on software development best practices, achieving 100/100 in Lighthouse accessibility and implementing database security (Supabase RLS).
+* ⚙️ **[Accounting Onboarding Flow](https://github.com/MillaV/powerplatform-onboarding-flow):** An automated client onboarding solution for an accounting firm. Built manually using Power Apps (Model-driven), Dataverse, and Power Automate. This project demonstrates my ability to map business requirements into enterprise apps, my understanding of Application Lifecycle Management (Solution packaging), and my skill in using AI purely as a sparring partner for architecture and process design.
+* 🌱 **[Plant Catalog (Web App)](https://github.com/MillaV/kasviluettelo):** A project converting static PDF data into a dynamic web service. I acted as the project manager, guiding AI tools (Lovable, Claude) to generate the codebase. The focus was on software development best practices, achieving 100/100 in Lighthouse accessibility and implementing database security (Supabase RLS).
 
 ### 🛠️ Tech Stack & Focus Areas:
 * **Core:** Requirements Analysis, Process Automation, UX/UI Design, AI-Assisted Development, Enterprise Architecture (ALM), Agile Principles (MVP-driven development, Backlog management)
