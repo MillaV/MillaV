@@ -14,6 +14,9 @@ A project converting static PDF data into a dynamic web service. I acted as the 
 * 🤖 **[AI Feedback Automation](https://github.com/MillaV/01-ai-customer-feedback-classifier):**| **`Make.com` `Tally` `Google Sheets` `Make AI Toolkit`**<br>
 A data pipeline that collects user feedback with a Tally form. It uses Make.com to orchestrate AI tools. The AI categorizes the text and analyzes the sentiment. Then, it saves the data into Google Sheets. This practice project demonstrates my proactive attitude to test and learn new tools in practice. It also shows how I turn messy customer text into organized business data.
 
+* 🎣 **[Fishing Log Weather Enrichment](https://github.com/MillaV/excel-power-query-automations/tree/main/01-fishing-log-weather-enrichment):** **`Excel` `Power Query` `M` `FMI Open Data API`**<br>
+An Excel automation that enriches a personal fishing log with real weather data. Power Query calls the Finnish Meteorological Institute's open API to fetch the average temperature and air pressure for each fishing trip's time window, and writes the results back automatically as new rows are added — no manual lookups needed. Built-in data validation keeps the log error-free (no negative catch counts, no future dates). This project started from a real-life problem, and solving an actual user's challenge was rewarding — especially since I'd only done a handful of Power Query exercises before diving in.
+
 ### 🛠️ Tech Stack & Focus Areas:
 * **Core:** Requirements Analysis, Process Automation, UX/UI Design, AI-Assisted Development, Enterprise Architecture (ALM), Agile Principles (MVP-driven development, Backlog management)
 * **Tools:** Microsoft Power Platform (Power Apps, Power Automate, Dataverse, SharePoint), Supabase, Lovable, Make.com, Tally
