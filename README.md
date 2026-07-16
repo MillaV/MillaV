@@ -1,8 +1,11 @@
 ## :wave: ABOUT ME: I bridge the gap between business needs and IT solutions.
+**Business systems & low-code — requirements to working solution. Helsinki, open to hybrid/remote.**
 
 I am a recent IT Business graduate (BBA) with a senior background in financial administration and accounting. My superpower is seeing the "forest for the trees" — I specialize in translating complex business processes into logical, user-centric digital solutions and enterprise automations. 
 
 I am a curious and experimental problem-solver. Instead of writing heavy backend code from scratch, I prefer to act as a "system architect": utilizing low-code platforms (Power Platform) and orchestrating AI tools to solve real-world problems securely and accessibly.
+
+
 
 ### 🔭 What you'll find in this portfolio:
 Here I share my **learning projects** where I explore technologies to solve practical problems:
